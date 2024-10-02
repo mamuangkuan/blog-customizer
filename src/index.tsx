@@ -12,6 +12,8 @@ import styles from './styles/index.module.scss';
 const domNode = document.getElementById('root') as HTMLDivElement;
 const root = createRoot(domNode);
 
+//добавляем комментарий для проверки
+
 const App = () => {
 	return (
 		<main
